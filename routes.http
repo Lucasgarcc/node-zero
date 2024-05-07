@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://node-zero-w4ml.onrender.com/videos
 Content-Type: application/json
 
 # {
@@ -12,18 +12,18 @@ Content-Type: application/json
 #   "duration": 180
 # },
 {
-  "title": "Video Node",
-  "description": "Esse é o vídeo Node",
+  "title": "Video Node 3 ",
+  "description": "Esse é o vídeo 03",
   "duration": 180
 }
 
 ###
 
-GET http://localhost:3333/videos?search=Node
+GET https://node-zero-w4ml.onrender.com/videos
 
 ###
 
-PUT http://localhost:3333/videos/f2e5888b-8586-4b56-9a9b-80507294c41d
+PUT https://node-zero-w4ml.onrender.com/f2e5888b-8586-4b56-9a9b-80507294c41d
 Content-Type: application/json
 
 {
