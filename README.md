@@ -2,6 +2,8 @@
 
 Projeto contruído com o objetivo de sair do zero no conhecimento do Node.js.
 
+[Preview](https://node-zero-w4ml.onrender.com/videos)
+
 <!-- **[🔗 Clique aqui para acessar]()** -->
 
 ## **🛠 Tecnologias**
